@@ -16,3 +16,6 @@ To Do:
 <br>
 <br>
 Your app should now be good to go. You can use it in debug mode or deploy it.
+<br>
+<br>
+If you would like to use the Transportation output with stream analytics, there is a StreamAnalytics.sql that extracts the nested json. Simply replace the <eventhub_input> and <powerbi_output> tags with the input and output names for your job
